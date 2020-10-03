@@ -2,7 +2,7 @@
 div {
   width: 2000px;
   height: 2000px;
-  background-color: lightblue;
+  background-color: rgb(15, 175, 228);
   animation-name: example;
   animation-duration: 10s;
 }
